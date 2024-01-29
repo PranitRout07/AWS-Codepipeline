@@ -168,19 +168,19 @@ builspec.yml
 <img width="1280" alt="code source provider" src="https://github.com/PranitRout07/AWS-Codepipeline/assets/102309095/e0707c41-fcd9-495d-b362-bb5190f7690c">
 
 
-23.
+23.Here mentioned the build provider and project name .  
 
 
 
 <img width="1280" alt="build" src="https://github.com/PranitRout07/AWS-Codepipeline/assets/102309095/13a22b25-0a03-4c1b-9ca7-fa73e6677a03">
 
-24.   
+24. Now mentioned the AWS CodeDeploy as deploy provider and also give the application name . 
 
     
 
 <img width="1280" alt="deployment" src="https://github.com/PranitRout07/AWS-Codepipeline/assets/102309095/6015e895-758c-4a11-ac34-1894d3a1e6a0">
 
-25. 
+25. Now after all these configuartion , here i started the AWS CodePipeline . And all the stages are successfully executed.
 
 
 
